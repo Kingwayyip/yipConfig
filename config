@@ -30206,7 +30206,8 @@ DOMAIN-SUFFIX,zzyl.mobi,Reject
 DOMAIN-SUFFIX,zzyytt.top,Reject
 DOMAIN-SUFFIX,zzzhuoxiaqu.online,Reject
 
-DOMAIN-SUFFIX,avedex.cc,Proxy
+#自定义
+DOMAIN-SUFFIX,avedex.cc,Reject
 
 FINAL,proxy
 
